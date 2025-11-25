@@ -1,6 +1,6 @@
-# XATANICAL BAILEYS 
+# RARAA BAILEYS 
 <p align='center'>
-  <img src="https://files.catbox.moe/csi162.png" width="540">
+  <img src="https://files.catbox.moe/ikfdc6.jpg" width="540">
 </p>
 
 --- 
@@ -48,5 +48,5 @@ console.log("Ur pairing code : " + code)
 ```
 
 
-Follow https://t.me/xatanicvxii 
-Untuk Join Partnership !
+Follow https://t.me/raraa_imuppp 
+Kalau Mau Join Sc Scarry Death Pv Mee !
